@@ -21,8 +21,8 @@ Atuo no suporte técnico em infraestrutura e informática, realizando manutenç�
 ### 📊 Estatísticas
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_GITHUB&show_icons=true&theme=dark&locale=pt-br&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_GITHUB&layout=compact&theme=dark&locale=pt-br" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=IgorMedeiros-cpu_GITHUB&show_icons=true&theme=dark&locale=pt-br&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgorMedeiros-cpu_GITHUB&layout=compact&theme=dark&locale=pt-br" />
 </div>
 
 ---
