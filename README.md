@@ -29,7 +29,7 @@ Atuo no suporte técnico em infraestrutura e informática, realizando manutenç�
 
 <div align="center">
 
-  <a href=["https://instagram.com/SEU_INSTAGRAM"](https://www.instagram.com/igor.med3iros/) target="_blank">
+  <a href="https://www.instagram.com/igor.med3iros/)" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
   <a href="mailto:ig7815158@gmail.com">
